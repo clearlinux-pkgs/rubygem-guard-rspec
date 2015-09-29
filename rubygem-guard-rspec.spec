@@ -4,7 +4,7 @@
 #
 Name     : rubygem-guard-rspec
 Version  : 4.6.3
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/guard-rspec-4.6.3.gem
 Source0  : https://rubygems.org/downloads/guard-rspec-4.6.3.gem
 Summary  : No detailed summary available
