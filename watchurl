@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2016-03-11 21:44:42.947455
-# {'~>4.2', '>=0', '<5.0', 'development', '>=4.2.3'}
+# 2016-07-14 22:13:53.912010
+# {'~>4.2', '>=0', 'development', '<5.0', '>=4.2.3'}
 watchurl=https://rubygems.org/gems/guard-rspec/versions/([0-4]\.[0-9]{1,2}(?:\.[0-9]{1,2})*)
